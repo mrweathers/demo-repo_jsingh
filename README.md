@@ -1,3 +1,3 @@
 # demo-repo
 Edit!
-An other line !
+Another line !
